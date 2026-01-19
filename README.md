@@ -43,12 +43,6 @@ Ce dépôt contient principalement :
 - les scripts de fine-tuning du modèle Whisper,
 - ainsi que les analyses et résultats obtenus.
 
-## 🚀 Résultats et perspectives
-Les résultats obtenus montrent le potentiel des modèles multilingues auto-supervisés pour la transcription des langues africaines à faibles ressources.  
-Ce travail ouvre la voie à :
-- l’amélioration des systèmes ASR pour le Yemba,
-- l’extension à d’autres langues camerounaises,
-- et l’intégration de ces modèles dans des applications éducatives ou culturelles.
 
 ---
 
